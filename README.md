@@ -43,7 +43,7 @@ dependencies {
 <dependency>
     <groupId>com.github.emilioheringer</groupId>
     <artifactId>JavaComplexLib</artifactId>
-    <version>1.0.0</version>
+    <version>main-d67721cb63-1</version>
 </dependency>
 ```
 
