@@ -26,7 +26,7 @@ dependencyResolutionManagement {
 }
 
 dependencies {
-    implementation 'com.github.emilioheringer:JavaComplexLib:1.0.0'
+	        implementation 'com.github.emilioheringer:ComplexNumberJava:main-d67721cb63-1'
 }
 ```
 
@@ -42,7 +42,7 @@ dependencies {
 
 <dependency>
     <groupId>com.github.emilioheringer</groupId>
-    <artifactId>JavaComplexLib</artifactId>
+    <artifactId>ComplexNumberJava</artifactId>
     <version>main-d67721cb63-1</version>
 </dependency>
 ```
