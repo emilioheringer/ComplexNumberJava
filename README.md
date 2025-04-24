@@ -71,4 +71,4 @@ public class Main {
 Full documentation is available at:  
 👉 [https://emilioheringer.github.io/ComplexJavadoc/com/heringer/package-summary.html](https://emilioheringer.github.io/ComplexJavadoc/com/heringer/package-summary.html)
 
-[![](https://jitpack.io/v/emilioheringer/JavaComplexLib.svg)](https://jitpack.io/#emilioheringer/JavaComplexLib)
+[![](https://jitpack.io/v/emilioheringer/ComplexNumberJava.svg)](https://jitpack.io/#emilioheringer/ComplexNumberJava)
